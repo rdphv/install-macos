@@ -24,8 +24,8 @@ Permet de remplacer `Terminal` par une console plus efficace
     
 ## Installer Bitwarden
 
-   brew cask install bitwarden
-   brew install bitwarden-cli
+    brew cask install bitwarden
+    brew install bitwarden-cli
 
 ## Installer [Firefox](https://www.mozilla.org/fr/firefox/new/)
 
