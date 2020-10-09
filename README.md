@@ -8,10 +8,15 @@ Poste de travail orienté développement Web (principalement Javascript).
     
 ## Installer [iTerm2](https://www.iterm2.com/)
 
-Permet de remplacer `Terminal` par une console plus efficace et d'installer [`Oh My Zsh`](https://ohmyz.sh/#install)
+Permet de remplacer `Terminal` par une console plus efficace
 
     brew cask install iterm2
-    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"    
+    # Oh My Zsh - https://ohmyz.sh/#install
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"   
+    # Powerlevel10k - https://github.com/romkatv/powerlevel10k
+    git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+    # Set ZSH_THEME="powerlevel10k/powerlevel10k" in ~/.zshrc.
+    # Redémarrer la console
     
 ## Installer [Firefox](https://www.mozilla.org/fr/firefox/new/)
 
