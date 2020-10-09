@@ -49,6 +49,7 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
 
     brew install nvm
     nvm install node
+    brew install yarn
     
 ## Installer Rust
 
