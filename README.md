@@ -64,4 +64,6 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
     # Extension Rust pour VSCode
     code --install-extension rust-lang.rust
     
+    # Extension pour bien gérer les fichiers TOML
+    code --install-extension tamasfe.even-better-toml
     
