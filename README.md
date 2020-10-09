@@ -41,7 +41,26 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
 
     brew cask install adobe-acrobat-reader
     
-## Installer [Insomnia](https://insomnia.rest/)
+## Installer [VS Code](https://code.visualstudio.com/)
 
-    brew cask install insomnia
+    brew cask install visual-studio-code
+    
+## Installer NodeJS
+
+    brew install nvm
+    nvm install node
+    
+## Installer Rust
+
+    brew install rustup-init
+    
+    # Puis
+    rustup-init
+    
+    # Rust Language Server (utile pour les IDEs et autres outils)
+    rustup component add rls rust-analysis rust-src
+    
+    # Extension Rust pour VSCode
+    code --install-extension rust-lang.rust
+    
     
