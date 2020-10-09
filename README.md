@@ -31,6 +31,10 @@ Permet de remplacer `Terminal` par une console plus efficace
 
     brew cask install firefox
     
+    # Ou/et
+    
+    brew cask install google-chrome
+    
 ## Installer [Adobe Acrobat Reader](https://get.adobe.com/fr/reader/otherversions/)
 
 Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer, etc.
