@@ -67,3 +67,7 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
     # Extension pour bien gérer les fichiers TOML
     code --install-extension tamasfe.even-better-toml
     
+## Installer Github & Co
+
+    brew install gh
+    
