@@ -69,5 +69,12 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
     
 ## Installer Github & Co
 
+    # Github Cli
     brew install gh
+    
+    # Netlify Cli
+    npm install netlify-cli -g
+    
+    # Zola Site generator en Rust
+    brew install zola
     
