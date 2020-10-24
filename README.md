@@ -78,3 +78,8 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
     # Zola Site generator en Rust
     brew install zola
     
+## Divers
+
+    # VLC
+    brew cask install vlc
+    
