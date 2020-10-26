@@ -35,12 +35,6 @@ Permet de remplacer `Terminal` par une console plus efficace
     
     brew cask install google-chrome
     
-## Installer [Adobe Acrobat Reader](https://get.adobe.com/fr/reader/otherversions/)
-
-Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer, etc.
-
-    brew cask install adobe-acrobat-reader
-    
 ## Installer [VS Code](https://code.visualstudio.com/)
 
     brew cask install visual-studio-code
@@ -83,3 +77,8 @@ Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer,
     # VLC
     brew cask install vlc
     
+    # Slack
+    brew cask install slack
+    
+    # Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer, etc.
+    brew cask install adobe-acrobat-reader
