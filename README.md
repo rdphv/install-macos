@@ -87,3 +87,6 @@ Permet de remplacer `Terminal` par une console plus efficace
 
     # AWS CLI
     brew install awscli
+    
+    # TFEnv - Gestionnaire de version Terraform comme NVM
+    brew install tfenv
