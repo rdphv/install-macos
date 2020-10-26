@@ -65,6 +65,8 @@ Permet de remplacer `Terminal` par une console plus efficace
 
     # Github Cli
     brew install gh
+    # Ou/et
+    brew install hub
     
     # Netlify Cli
     npm install netlify-cli -g
