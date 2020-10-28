@@ -85,6 +85,9 @@ Permet de remplacer `Terminal` par une console plus efficace
     # Permet de remplacer `Apercu` pour lire les PDF et pouvoir les commenter, signer, etc.
     brew cask install adobe-acrobat-reader
     
+    # Deezer
+    brew cask install deezer
+    
 ## Dev
 
     # AWS CLI
