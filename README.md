@@ -88,6 +88,9 @@ Permet de remplacer `Terminal` par une console plus efficace
     # Deezer
     brew cask install deezer
     
+    # JDownloader   
+    brew cask install jdownloader
+    
 ## Dev
 
     # AWS CLI
